@@ -1,0 +1,14 @@
+NO2-PzCastilla-16-10
+Constant = 1; 
+D = 0; 
+Seasonality = 48; 
+MALags = 24; 
+SMALags = 24;
+
+
+PM25-MendezAlvaro-16-10
+Constant = 1; 
+D = 0; 
+Seasonality = 72; 
+MALags = 24; 
+SMALags = 24;

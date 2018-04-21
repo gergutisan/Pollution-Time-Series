@@ -1,0 +1,77 @@
+function [ACF, lagsACF, boundsACF, PACF, lagsPACF , boundsPACF , ... 
+          h1_scatter, h1_acf, h1_pacf] = getLagScatterPlot_ACF_PACF_01( tsData , tsName, sInfo, numLags, showScatterPlot, showACFPACFPlot )
+
+    % http://www.itl.nist.gov/div898/handbook/eda/section3/autocopl.htm
+    
+    h1_scatter = 0;  % <-- plot 1 (showPlot1)
+    h2_acf = 0;      % <-- plot 2 (showPlot2)
+
+    n = ceil(sqrt(numLags)); 
+    
+    maxRC = 7;
+    if ( n <= maxRC )
+        n2 = n;
+        numLags2 = numLags;        
+    else
+        n2 = maxRC;
+        numLags2 = maxRC^2;
+        
+        
+    end 
+    
+    % ---------------------------------------------------------------------
+    % Lagged Scatter plot ( y_t vs y_(t-k) )
+    if ( showScatterPlot )
+        h1_scatter = figure('Name',strcat(tsName,' ',sInfo ,' ',' lagged (', num2str(numLags2), ') scatter plot' ) );
+        lengthTsData = length(tsData);
+        
+        for k = 1:numLags2
+            lengthTsDataLagged = length(tsData) - k;
+            tsDataLagged = zeros( 1, lengthTsDataLagged );
+
+            firstElement = k + 1; 
+            for i = firstElement:lengthTsData 
+                % Difference: y' = y_t - y_(t-k)
+                % tsDataLagged( i - k ) = tsData( i ) - ( tsData( i - k ) ); 
+                
+                % Lagged y_(t-k)
+                tsDataLagged( i ) =  tsData( i - k );
+                
+            end
+            
+            subplot(n2,n2,k);
+            
+            plot( tsData(firstElement:lengthTsData),tsDataLagged, 'b.');
+            title(strcat('lag ', num2str(k)));
+            
+            clear lengthTsDataLagged tsDataLagged
+
+        end
+    end
+    
+    % ---------------------------------------------------------------------
+    % autocorrelation function
+    
+    [ ACF , lagsACF , boundsACF ] = autocorr( tsData , numLags );     
+    % Correlogram
+    if ( showACFPACFPlot )        
+        h1_acf = figure('Name',strcat(tsName,' ',sInfo ,' ',' ACF ( lags ',num2str(numLags),' )' ) );
+        % autocorr(y) plots the sample autocorrelation function (ACF) 
+        % of the univariate, stochastic time series y with confidence bounds.
+        autocorr(tsData,numLags); 
+        title(strcat(tsName,' ACF ( lags ',num2str(numLags),' )' ));
+    end
+    
+    % ---------------------------------------------------------------------
+    % Partial autocorrelation function
+    [ PACF , lagsPACF , boundsPACF ] = parcorr( tsData , numLags );     
+    % Correlogram
+    if ( showACFPACFPlot )        
+        h1_pacf = figure('Name',strcat(tsName,' ',sInfo ,' ',' PACF ( lags ',num2str(numLags),' )' ) );
+        % autocorr(y) plots the sample autocorrelation function (ACF) 
+        % of the univariate, stochastic time series y with confidence bounds.
+        parcorr(tsData,numLags); 
+        title(strcat(tsName,' PACF ( lags ',num2str(numLags),' )' ));
+    end
+
+end

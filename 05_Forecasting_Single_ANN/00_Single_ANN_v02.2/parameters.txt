@@ -1,0 +1,70 @@
+OF ALL THE EXPERIMENTS
+
+parameters = 
+
+  struct with fields:
+
+                     debugging: 2
+                  parallelWork: 1
+                       GpuWork: 0
+              tsTypesCellArray: {'raw'  'dif'  'inc'}
+                      tsFolder: 'd:\DriveGoogle\00_SW_Projects\01_Matlab\2017_12_PollutionTimeSeries\00_Single_ANN_v02\TimeSeries_Pollution'
+              folderAllResults: 'Results_ALL'
+           resultsFolderPrefix: 'Results_'
+            resultsFilesPrefix: 'results_'
+          fileExtensionResults: 'dat'
+    fileExtensionResultsBinary: 'mat'
+                 tsFilesPrefix: 'ts-'
+              tsFilesExtension: 'csv'
+         filesOfResGenComplete: '00_results_all.dat'
+      filesOfResGenCompleteMat: 'expResultsAll.mat'
+                 logFilePrefix: 'aa_execlogFile_'
+            numInitializations: 2
+         folderFactorLevelComb: 'd:\DriveGoogle\00_SW_Projects\01_Matlab\2017_12_PollutionTimeSeries\00_Single_ANN_v02\TablesFactorsAndLevels'
+    fileFactorLevelCombination: 'factorLevelsTable_Pollution_Tinny.txt'
+
+A SINGLE ANN PARAMETERS
+
+singleANNParameter = 
+
+  struct with fields:
+
+                     iExperiment: 1
+                  iCombFactLevel: 1
+                         nInputs: 14
+                hiddenLayersSize: 12
+                        trainFcn: 5
+                    learningRate: 0.1000
+                        trCycles: 500
+                     transferFcn: 'tansig'
+                        nOutputs: 1
+                      trainPrctg: 70
+                        valPrctg: 15
+                       testPrctg: 15
+                      divideMode: 'sample'
+                       divideFcn: 'divideblock'
+                       trainGoal: 1.0000e-07
+                      trainParam: [1×1 struct]
+                  times2seeTrain: 3
+                    showOnScreen: 1
+                         netView: 0
+                 showTrainRecord: 0
+           showTrainTargetOutput: 0
+             showValTargetOutput: 0
+            showTestTargetOutput: 1
+    showTrainValTestTargetOutput: 1
+                        tsFolder: 'd:\DriveGoogle\00_SW_Projects\01_Matlab\2017_12_PollutionTimeSeries\00_Single_ANN_v02\TimeSeries_Pollution'
+                      tsFilename: 'ts-NO2-FedzLadreda-16-12-raw.csv'
+                          tsName: 'NO2-FedzLadreda-16-12'
+                          tsType: 'raw'
+                          initId: 1
+                  folder_Results: 'Results_ALL\Results_NO2-FedzLadreda-16-12_raw_001'
+                     trainFcnStr: 'trainrp'
+                         rngSeed: 1516593    
+
+
+%% ======================================================================================
+
+Artificial Neural Network Toolbox 
+    
+    Parameters of the neural net

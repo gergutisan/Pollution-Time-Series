@@ -1,0 +1,54 @@
+================================
+PARAMETERS
+================================
+(not depend on debugging) =>  does not depend on debugging source code / algorithms
+
+parameters.debugging    = 0;   % 0/1/2
+SET FOLDERs AND PATH <- 
+
+PARAMETERS FOR EXPERIMENTATION 
+parameters.ForecastHorizon    = 24;   <- (not depend on debugging)
+
+parameters.ForecastOutput     = 1;   % => i.e. number of ANN (or model) output
+                                     <- (not depend on debugging)
+
+parameters.transferFcn  = 'tansig';   <- up to now is fixed so... (not depend on debugging)
+
+
+parameters.tsTypesCellArray = { 'raw', 'dif' , 'inc' };  <- (DEPEND on debugging)
+parameters.tsTypesCellArray = { 'raw'};  
+
+parameters.numInitializations = 3; % 1, 3, 10;  <- (DEPEND on debugging)
+
+parameters.FLCombinations = 3;                  <- (DEPEND on debugging)
+
+        % FACTOR LEVEL COMBINATIONS FILE 
+        % 0 (default value) => 'factorLevelsTable_Pollution_Tinny.txt'   
+        % 1                 => 'factorLevelsTable_Pollution_L50_v01.txt'; 
+        % 2                 => 'factorLevelsTable_Pollution_StepWise_short.txt'
+        % 3                 => 'factorLevelsTable_Pollution_StepWise.txt'
+        % 4                 => 'factorLevelsTable_Pollution_FullFactorial.txt' 
+
+
+parameters.SplitPatternSetByPrctg = false; % false <--> logical(0)              <- (not depend on debugging)
+parameters.SplitPatternSetByElements = ~(parameters.SplitPatternSetByPrctg);    <- (not depend on debugging)
+
+
+parameters.max_fail_TrainCyclesPrct = 20;                                       <- (not depend on debugging)
+
+% NAMES OF THE TIME SERIES 2017 - 11  
+parameters.tsOriginalDataFileRoots  = {'NO2-FedzLadreda-16-12'};                      <- (DEPEND on debugging)
+parameters.tsOriginalDataFileRoots  = {'NO2-FedzLadreda-16-12', ...
+                                       'NO2-PzCastilla-16-10',...
+                                       'O3-JuanCarlosI-16-07', ... 
+                                       'PM25-MendezAlvaro-16-10'};
+
+parameters.FLCombinations
+strFLCom = 'Tinny';
+strFLCom = 'L50_v01';
+strFLCom = 'StepWise_short';
+strFLCom = 'StepWise';
+strFLCom = 'FullFactorial';
+
+
+PARAMETERS FOR EXECUTION AND DEBUG

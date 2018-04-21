@@ -1,0 +1,371 @@
+--------------------------
+NO2-MendezAlvaro
+NO2
+yy 16 mm  7
+                AboveLimit(NO2)            0
+                      monthMean       25.715
+                 (max)dailyMean       39.667   close to anual mean top limit
+              (max)period8hMean       73.875   above to anual mean top limit
+
+--------------------------
+NO2-PzCastilla
+NO2
+yy 16 mm  7
+                AboveLimit(NO2)            0
+                      monthMean       36.638    close to anual mean top limit 
+                 (max)dailyMean       63.542    above to anual mean top limit
+              (max)period8hMean       95.375    above to anual mean top limit
+
+--------------------------
+NO2-FedzLadreda
+NO2
+yy 16 mm  7
+                AboveLimit(NO2)            1
+                      monthMean       51.839    above to anual mean top limit
+                 (max)dailyMean       74.458    above to anual mean top limit
+              (max)period8hMean      110.250    above to anual mean top limit
+
+--------------------------
+NO2-JuanCarlosI
+NO2
+yy 16 mm  7
+                AboveLimit(NO2)            0
+                      monthMean       16.609   
+                 (max)dailyMean       27.958   
+              (max)period8hMean       54.125   above to anual mean top limit
+
+--------------------------
+PM25-MendezAlvaro
+PM25
+yy 16 mm  7
+                      monthMean       11.442   above to anual mean top limit
+                 (max)dailyMean       18.792   
+              (max)period8hMean       24.625   close to 24-mean top limit
+
+--------------------------
+PM25-PzCastilla
+PM25
+yy 16 mm  7
+                      monthMean       10.245   above to anual mean top limit
+                 (max)dailyMean       24.375   close to 24-mean top limit
+              (max)period8hMean       31.500   above to 24-mean top limit
+
+--------------------------
+O3-FezLadreda
+O3
+yy 16 mm  7
+                      monthMean       64.906  
+                 (max)dailyMean       90.333
+              (max)period8hMean      111.750  above to 8-mean top limit
+
+--------------------------
+O3-JuanCarlosI
+O3
+yy 16 mm  7
+                      monthMean       89.685
+                 (max)dailyMean      109.750
+              (max)period8hMean      147.625 above to 8-mean top limit
+
+--------------------------
+NO2-MendezAlvaro
+NO2
+yy 16 mm  8
+                AboveLimit(NO2)            0
+                      monthMean       26.480 
+                 (max)dailyMean       41.625   above to anual mean top limit
+              (max)period8hMean       83.875   above to anual mean top limit
+
+--------------------------
+NO2-PzCastilla
+NO2
+yy 16 mm  8
+                AboveLimit(NO2)            0
+                      monthMean       30.660
+                 (max)dailyMean       53.208  above to anual mean top limit
+              (max)period8hMean       82.625  above to anual mean top limit
+
+--------------------------
+NO2-FedzLadreda
+NO2
+yy 16 mm  8
+                AboveLimit(NO2)            0
+                      monthMean       48.988
+                 (max)dailyMean       68.000  above to anual mean top limit
+              (max)period8hMean      104.000  above to anual mean top limit
+
+--------------------------
+NO2-JuanCarlosI
+NO2
+yy 16 mm  8
+                AboveLimit(NO2)            0
+                      monthMean       15.942
+                 (max)dailyMean       28.583
+              (max)period8hMean       45.750  above to anual mean top limit
+
+--------------------------
+PM25-MendezAlvaro
+PM25
+yy 16 mm  8
+                      monthMean       12.035  above to anual mean top limit
+                 (max)dailyMean       24.792  close to 24-h mean top limit
+              (max)period8hMean       31.625  above to 24-h mean top limit
+
+--------------------------
+PM25-PzCastilla
+PM25
+yy 16 mm  8
+                      monthMean        8.733  
+                 (max)dailyMean       17.708
+              (max)period8hMean       19.125
+
+--------------------------
+O3-FezLadreda
+O3
+yy 16 mm  8
+                      monthMean       63.433  
+                 (max)dailyMean       81.125
+              (max)period8hMean      106.500
+
+--------------------------
+O3-JuanCarlosI
+O3
+yy 16 mm  8
+                      monthMean       76.918
+                 (max)dailyMean       99.542 close to 8-mean top limit
+              (max)period8hMean      138.125 above to 8-mean top limit
+
+--------------------------
+NO2-MendezAlvaro
+NO2
+yy 16 mm  9
+                AboveLimit(NO2)            0
+                      monthMean       41.806  above to anual mean top limit
+                 (max)dailyMean       68.458  above to anual mean top limit
+              (max)period8hMean      103.500  above to anual mean top limit
+
+--------------------------
+NO2-PzCastilla
+NO2
+yy 16 mm  9
+                AboveLimit(NO2)            0
+                      monthMean       47.487  above to anual mean top limit
+                 (max)dailyMean       74.917  above to anual mean top limit
+              (max)period8hMean       94.375  above to anual mean top limit
+
+--------------------------
+NO2-FedzLadreda
+NO2
+yy 16 mm  9
+                AboveLimit(NO2)           10  (=> 10/18)
+                      monthMean       65.236  above to anual mean top limit
+                 (max)dailyMean      104.500  above to anual mean top limit
+              (max)period8hMean      135.500  above to anual mean top limit
+
+--------------------------
+NO2-JuanCarlosI
+NO2
+yy 16 mm  9
+                AboveLimit(NO2)            0
+                      monthMean       26.018
+                 (max)dailyMean       53.542  above to anual mean top limit
+              (max)period8hMean       67.625  above to anual mean top limit
+
+--------------------------
+PM25-MendezAlvaro
+PM25
+yy 16 mm  9
+                      monthMean       12.685
+                 (max)dailyMean       25.583  above limit
+              (max)period8hMean       35.375  above limit for 24hours
+
+--------------------------
+PM25-PzCastilla
+PM25
+yy 16 mm  9
+                      monthMean        9.953  
+                 (max)dailyMean       22.042  above limit for pahse II
+              (max)period8hMean       28.875  above limit for 24hours
+
+--------------------------
+O3-FezLadreda
+O3
+yy 16 mm  9
+                      monthMean       43.837  
+                 (max)dailyMean       64.792  
+              (max)period8hMean       90.500  
+
+--------------------------
+O3-JuanCarlosI
+O3
+yy 16 mm  9
+                      monthMean       61.139
+                 (max)dailyMean       88.250
+              (max)period8hMean      109.000  above the limit
+
+--------------------------
+NO2-MendezAlvaro
+NO2
+yy 16 mm 10
+                AboveLimit(NO2)            3  ( => 3/18)
+                      monthMean       53.938  above to anual mean top limit
+                 (max)dailyMean       82.708  above to anual mean top limit
+              (max)period8hMean      130.375  above to anual mean top limit
+
+--------------------------
+NO2-PzCastilla
+NO2
+yy 16 mm 10
+                AboveLimit(NO2)            3  (3/18)
+                      monthMean       50.601  above to anual mean top limit
+                 (max)dailyMean       75.833  above to anual mean top limit
+              (max)period8hMean      139.500  above to anual mean top limit
+
+--------------------------
+NO2-FedzLadreda
+NO2
+yy 16 mm 10
+                AboveLimit(NO2)            8  (18/18)
+                      monthMean       65.659  above to anual mean top limit
+                 (max)dailyMean       96.000  above to anual mean top limit
+              (max)period8hMean      151.750  above to anual mean top limit
+
+--------------------------
+NO2-JuanCarlosI
+NO2
+yy 16 mm 10
+                AboveLimit(NO2)            0  
+                      monthMean       29.759  
+                 (max)dailyMean       48.375  above to anual mean top limit
+              (max)period8hMean       69.125  above to anual mean top limit
+
+--------------------------
+PM25-MendezAlvaro
+PM25
+yy 16 mm 10
+                      monthMean       14.526  
+                 (max)dailyMean       26.417  above the limit
+              (max)period8hMean       42.875  above the limit for 24 hours
+
+--------------------------
+PM25-PzCastilla
+PM25
+yy 16 mm 10
+                      monthMean       10.874
+                 (max)dailyMean       15.042
+              (max)period8hMean       24.625 close to the limit for 24 hours
+
+--------------------------
+O3-FezLadreda
+O3
+yy 16 mm 10
+                      monthMean       28.302 
+                 (max)dailyMean       44.083
+              (max)period8hMean       72.125
+
+--------------------------
+O3-JuanCarlosI
+O3
+yy 16 mm 10
+                      monthMean       41.191
+                 (max)dailyMean       67.875
+              (max)period8hMean       93.125
+
+--------------------------
+NO2-MendezAlvaro
+NO2
+yy 16 mm 11
+                AboveLimit(NO2)            0  
+                      monthMean       52.739  above to anual mean top limit
+                 (max)dailyMean       85.542  above to anual mean top limit
+              (max)period8hMean      112.000  above to anual mean top limit
+
+--------------------------
+NO2-PzCastilla
+NO2
+yy 16 mm 11
+                AboveLimit(NO2)            0
+                      monthMean       51.315  above to anual mean top limit
+                 (max)dailyMean       81.458  above to anual mean top limit
+              (max)period8hMean      100.625  above to anual mean top limit
+
+--------------------------
+NO2-FedzLadreda
+NO2
+yy 16 mm 11
+                AboveLimit(NO2)            8  (26/18)
+                      monthMean       67.600  above to anual mean top limit
+                 (max)dailyMean      121.500  above to anual mean top limit
+              (max)period8hMean      191.375  above to anual mean top limit
+
+--------------------------
+NO2-JuanCarlosI
+NO2
+yy 16 mm 11
+                AboveLimit(NO2)            0
+                      monthMean       24.003
+                 (max)dailyMean       40.292  above to anual mean top limit
+              (max)period8hMean       54.750  above to anual mean top limit
+
+--------------------------
+PM25-MendezAlvaro
+PM25
+yy 16 mm 11
+                      monthMean       11.596
+                 (max)dailyMean       26.250 above the limit
+              (max)period8hMean       34.125 above the limit for 24 hours
+
+--------------------------
+PM25-PzCastilla
+PM25
+yy 16 mm 11
+                      monthMean       10.824 
+                 (max)dailyMean       27.583  above the limit
+              (max)period8hMean       31.625  above the limit for 24 hours
+
+--------------------------
+O3-FezLadreda
+O3
+yy 16 mm 11
+                      monthMean       22.651  
+                 (max)dailyMean       50.792  
+              (max)period8hMean       65.125  
+
+--------------------------
+O3-JuanCarlosI
+O3
+yy 16 mm 11
+                      monthMean       32.406  
+                 (max)dailyMean       57.500  
+              (max)period8hMean       72.875  
+
+--------------------------
+PM25-MendezAlvaro
+PM25
+yy 16 mm 12
+                      monthMean       17.390
+                 (max)dailyMean       28.000  above the limit
+              (max)period8hMean       36.250  above the limit for 24 hours
+
+--------------------------
+PM25-PzCastilla
+PM25
+yy 16 mm 12
+                      monthMean       13.474
+                 (max)dailyMean       28.417
+              (max)period8hMean       49.000
+
+--------------------------
+O3-FezLadreda
+O3
+yy 16 mm 12
+                      monthMean       16.669
+                 (max)dailyMean       47.958
+              (max)period8hMean       63.875
+
+--------------------------
+O3-JuanCarlosI
+O3
+yy 16 mm 12
+                      monthMean       29.031
+                 (max)dailyMean       65.167
+              (max)period8hMean       67.500

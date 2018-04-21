@@ -1,0 +1,27 @@
+
+CODIGO_ESTACION_          8 digitos   (Anexo I)
+CODIGO_PARAMETROS         2 digitos   (Anexo II)
+CÓDIGO_DE_PARÁMETROS      2 digitos   (Anexo II)
+CÓDIGO_TÉCNICA_ANALÍTICA  2 digitos   (Anexo II)
+CÓDIGO_PERIODO_ANÁLISIS   2 digitos   (02 = datos horarios)
+
+
+
+FECHA : 
+
+  AÑO   2 digitos
+  MES   2 digitos
+  DÍA   2 digitos
+  
+DATOS:
+  HORA 01         5 digitos
+      VALIDACIÓN  1 digitos
+  HORA 02         5 digitos
+      VALIDACIÓN  1 digitos
+  
+     hasta 
+  HORA 24         5 digitos
+      VALIDACIÓN  1 digitos  
+      
+      
+unicamente son válidos los datos que llevan el código "v".

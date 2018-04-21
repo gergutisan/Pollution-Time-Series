@@ -1,0 +1,35 @@
+
+November 2017 work 
+
+Time Series (Month, pollutant and station) selected
+
+NO2-MendezAlvaro    Month 12 or 11 
+NO2-PzCastilla      Month 10 or 12
+PM25-MendezAlvaro   Month 10  
+O3-JuanCarlosI      Month 07  
+
+
+2016 
+
+NO2-FedzLadreda     Month 12
+   time above the limits(200 micro-grms 1h): 48 times
+   mean: 55,588 µg/m3
+
+NO2-PzCastilla  Month 10
+    year mean: 43,466 µg/m3
+    time above the limits(200 micro-grms 1h): 4 times
+
+PM25-MendezAlvaro Month 10  
+    year mean: 11,105  µg/m3
+
+O3-JuanCarlosI Month 07  
+    (max)daily8hMean      150.875 µg/m3
+
+%---------------------------------
+ts-NO2-FedzLadreda-16-12.csv
+ts-NO2-PzCastilla-16-10.csv
+ts-O3-JuanCarlosI-16-07.csv
+ts-PM25-MendezAlvaro-16-10.csv
+
+
+

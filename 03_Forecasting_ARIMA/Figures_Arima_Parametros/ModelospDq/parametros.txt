@@ -1,0 +1,23 @@
+NO2-FedzLadreda-16-12
+p=48;
+D=1;
+q=3;
+
+NO2-FedzLadreda-16-12_forecast
+p = 48; 
+D = 1; 
+q = 3;
+
+O3-JuanCarlosI-16-07
+p = 24; 
+D = 1; 
+q = 0;
+
+PM25-MendezAlvaro-16-10
+p = 24; 
+D = 0; 
+q = 2;
+
+
+
+

@@ -1,0 +1,788 @@
+
+--------------------------
+NO2-PzCastilla
+NO2
+yy 16 mm  0
+                AboveLimit(NO2)            4
+                      monthMean       43.466
+                (max) dailyMean       87.208
+                (mean)dailyMean       43.466
+              (median)dailyMean       42.729
+               (max)daily8hMean      152.500
+              (mean)daily8hMean       43.405
+            (median)daily8hMean       42.794
+ 
+--------------------------
+NO2-FedzLadreda
+NO2
+yy 16 mm  0
+                AboveLimit(NO2)           48
+                      monthMean       55.588
+                (max) dailyMean      142.333
+                (mean)dailyMean       55.588
+              (median)dailyMean       54.875
+               (max)daily8hMean      209.375  **
+              (mean)daily8hMean       55.531
+            (median)daily8hMean       55.451
+ 
+--------------------------
+NO2-JuanCarlosI
+NO2
+yy 16 mm  0
+                AboveLimit(NO2)            0
+                      monthMean       20.743
+                (max) dailyMean       59.833
+                (mean)dailyMean       20.743
+              (median)dailyMean       19.688
+               (max)daily8hMean       90.250
+              (mean)daily8hMean       20.712
+            (median)daily8hMean       19.133
+ 
+--------------------------
+PM25-MendezAlvaro
+PM25
+yy 16 mm  0
+                      monthMean       11.105
+                (max) dailyMean       46.958
+                (mean)dailyMean       11.105
+              (median)dailyMean        9.958
+               (max)daily8hMean       70.750
+              (mean)daily8hMean       11.072
+            (median)daily8hMean        9.862
+ 
+--------------------------
+PM25-PzCastilla
+PM25
+yy 16 mm  0
+                      monthMean        9.993
+                (max) dailyMean       53.708
+                (mean)dailyMean        9.993
+              (median)dailyMean        8.813
+               (max)daily8hMean       73.875
+              (mean)daily8hMean        9.972
+            (median)daily8hMean        8.706
+ 
+--------------------------
+O3-FezLadreda
+O3
+yy 16 mm  0
+                      monthMean       44.361
+                (max) dailyMean       90.333
+                (mean)dailyMean       44.361
+              (median)dailyMean       46.813
+               (max)daily8hMean      142.250
+              (mean)daily8hMean       44.353
+            (median)daily8hMean       47.393
+ 
+--------------------------
+O3-JuanCarlosI
+O3
+yy 16 mm  0
+                      monthMean       56.071
+                (max) dailyMean      109.750
+                (mean)dailyMean       56.071
+              (median)dailyMean       55.438
+               (max)daily8hMean      173.750 **
+              (mean)daily8hMean       56.063
+            (median)daily8hMean       55.000
+ 
+--------------------------
+NO2-MendezAlvaro
+NO2
+yy 16 mm  6
+                AboveLimit(NO2)            0
+                      monthMean       24.807
+                (max) dailyMean       47.583
+                (mean)dailyMean       24.807
+              (median)dailyMean       23.021
+               (max)daily8hMean       77.625
+              (mean)daily8hMean       24.602
+            (median)daily8hMean       22.549
+ 
+--------------------------
+NO2-PzCastilla
+NO2
+yy 16 mm  6
+                AboveLimit(NO2)            0
+                      monthMean       38.296
+                (max) dailyMean       61.958
+                (mean)dailyMean       38.296
+              (median)dailyMean       37.125
+               (max)daily8hMean       81.750
+              (mean)daily8hMean       37.826
+            (median)daily8hMean       35.820
+ 
+--------------------------
+NO2-FedzLadreda
+NO2
+yy 16 mm  6
+                AboveLimit(NO2)            0
+                      monthMean       47.826
+                (max) dailyMean       69.375
+                (mean)dailyMean       47.826
+              (median)dailyMean       53.500
+               (max)daily8hMean      104.375
+              (mean)daily8hMean       47.323
+            (median)daily8hMean       48.630
+ 
+--------------------------
+NO2-JuanCarlosI
+NO2
+yy 16 mm  6
+                AboveLimit(NO2)            0
+                      monthMean       14.986
+                (max) dailyMean       30.875
+                (mean)dailyMean       14.986
+              (median)dailyMean       14.292
+               (max)daily8hMean       59.625
+              (mean)daily8hMean       14.813
+            (median)daily8hMean       14.276
+ 
+--------------------------
+PM25-MendezAlvaro
+PM25
+yy 16 mm  6
+                      monthMean       10.325
+                (max) dailyMean       28.042
+                (mean)dailyMean       10.325
+              (median)dailyMean        9.479
+               (max)daily8hMean       39.125
+              (mean)daily8hMean       10.207
+            (median)daily8hMean        9.039
+ 
+--------------------------
+PM25-PzCastilla
+PM25
+yy 16 mm  6
+                      monthMean        8.669
+                (max) dailyMean       15.583
+                (mean)dailyMean        8.669
+              (median)dailyMean        8.229
+               (max)daily8hMean       20.000
+              (mean)daily8hMean        8.566
+            (median)daily8hMean        8.026
+ 
+--------------------------
+O3-FezLadreda
+O3
+yy 16 mm  6
+                      monthMean       51.865
+                (max) dailyMean       68.542
+                (mean)dailyMean       51.865
+              (median)dailyMean       52.667
+               (max)daily8hMean       98.375
+              (mean)daily8hMean       51.158
+            (median)daily8hMean       53.740
+ 
+--------------------------
+O3-JuanCarlosI
+O3
+yy 16 mm  6
+                      monthMean       80.894
+                (max) dailyMean      101.125
+                (mean)dailyMean       80.894
+              (median)dailyMean       81.708
+               (max)daily8hMean      155.500
+              (mean)daily8hMean       79.916
+            (median)daily8hMean       80.482
+ 
+--------------------------
+NO2-MendezAlvaro
+NO2
+yy 16 mm  7
+                AboveLimit(NO2)            0
+                      monthMean       25.715
+                (max) dailyMean       39.667
+                (mean)dailyMean       25.715
+              (median)dailyMean       27.625
+               (max)daily8hMean       86.250
+              (mean)daily8hMean       25.512
+            (median)daily8hMean       25.495
+ 
+--------------------------
+NO2-PzCastilla
+NO2
+yy 16 mm  7
+                AboveLimit(NO2)            0
+                      monthMean       36.638
+                (max) dailyMean       63.542
+                (mean)dailyMean       36.638
+              (median)dailyMean       36.958
+               (max)daily8hMean       97.750
+              (mean)daily8hMean       36.186
+            (median)daily8hMean       35.198
+ 
+--------------------------
+NO2-FedzLadreda
+NO2
+yy 16 mm  7
+                AboveLimit(NO2)            1
+                      monthMean       51.839
+                (max) dailyMean       74.458
+                (mean)dailyMean       51.839
+              (median)dailyMean       54.292
+               (max)daily8hMean      122.125
+              (mean)daily8hMean       51.440
+            (median)daily8hMean       53.453
+ 
+--------------------------
+NO2-JuanCarlosI
+NO2
+yy 16 mm  7
+                AboveLimit(NO2)            0
+                      monthMean       16.609
+                (max) dailyMean       27.958
+                (mean)dailyMean       16.609
+              (median)dailyMean       16.917
+               (max)daily8hMean       59.000
+              (mean)daily8hMean       16.411
+            (median)daily8hMean       16.438
+ 
+--------------------------
+PM25-MendezAlvaro
+PM25
+yy 16 mm  7
+                      monthMean       11.442
+                (max) dailyMean       18.792
+                (mean)dailyMean       11.442
+              (median)dailyMean       12.667
+               (max)daily8hMean       26.250
+              (mean)daily8hMean       11.282
+            (median)daily8hMean       11.109
+ 
+--------------------------
+PM25-PzCastilla
+PM25
+yy 16 mm  7
+                      monthMean       10.245
+                (max) dailyMean       24.375
+                (mean)dailyMean       10.245
+              (median)dailyMean       10.500
+               (max)daily8hMean       35.250
+              (mean)daily8hMean       10.120
+            (median)daily8hMean       10.078
+ 
+--------------------------
+O3-FezLadreda
+O3
+yy 16 mm  7
+                      monthMean       64.906
+                (max) dailyMean       90.333
+                (mean)dailyMean       64.906
+              (median)dailyMean       63.292
+               (max)daily8hMean      142.250 *
+              (mean)daily8hMean       64.150
+            (median)daily8hMean       63.172
+ 
+--------------------------
+O3-JuanCarlosI
+O3
+yy 16 mm  7
+                      monthMean       89.685
+                (max) dailyMean      109.750
+                (mean)dailyMean       89.685
+              (median)dailyMean       91.333
+               (max)daily8hMean      173.750 *
+              (mean)daily8hMean       88.852
+            (median)daily8hMean       90.135
+ 
+--------------------------
+NO2-MendezAlvaro
+NO2
+yy 16 mm  8
+                AboveLimit(NO2)            0
+                      monthMean       26.480
+                (max) dailyMean       41.625
+                (mean)dailyMean       26.480
+              (median)dailyMean       24.958
+               (max)daily8hMean      101.000
+              (mean)daily8hMean       25.935
+            (median)daily8hMean       25.620
+ 
+--------------------------
+NO2-PzCastilla
+NO2
+yy 16 mm  8
+                AboveLimit(NO2)            0
+                      monthMean       30.660
+                (max) dailyMean       53.208
+                (mean)dailyMean       30.660
+              (median)dailyMean       31.667
+               (max)daily8hMean      102.500
+              (mean)daily8hMean       30.001
+            (median)daily8hMean       29.427
+ 
+--------------------------
+NO2-FedzLadreda
+NO2
+yy 16 mm  8
+                AboveLimit(NO2)            0
+                      monthMean       48.988
+                (max) dailyMean       68.000
+                (mean)dailyMean       48.988
+              (median)dailyMean       50.292
+               (max)daily8hMean      128.500
+              (mean)daily8hMean       48.156
+            (median)daily8hMean       47.063
+ 
+--------------------------
+NO2-JuanCarlosI
+NO2
+yy 16 mm  8
+                AboveLimit(NO2)            0
+                      monthMean       15.942
+                (max) dailyMean       28.583
+                (mean)dailyMean       15.942
+              (median)dailyMean       15.208
+               (max)daily8hMean       59.250
+              (mean)daily8hMean       15.590
+            (median)daily8hMean       16.146
+ 
+--------------------------
+PM25-MendezAlvaro
+PM25
+yy 16 mm  8
+                      monthMean       12.035
+                (max) dailyMean       24.792
+                (mean)dailyMean       12.035
+              (median)dailyMean       11.375
+               (max)daily8hMean       31.875
+              (mean)daily8hMean       11.878
+            (median)daily8hMean       11.344
+ 
+--------------------------
+PM25-PzCastilla
+PM25
+yy 16 mm  8
+                      monthMean        8.733
+                (max) dailyMean       17.708
+                (mean)dailyMean        8.733
+              (median)dailyMean        8.167
+               (max)daily8hMean       20.500
+              (mean)daily8hMean        8.618
+            (median)daily8hMean        8.380
+ 
+--------------------------
+O3-FezLadreda
+O3
+yy 16 mm  8
+                      monthMean       63.433
+                (max) dailyMean       81.125
+                (mean)dailyMean       63.433
+              (median)dailyMean       62.750
+               (max)daily8hMean      120.375 *
+              (mean)daily8hMean       62.945
+            (median)daily8hMean       62.104
+ 
+--------------------------
+O3-JuanCarlosI
+O3
+yy 16 mm  8
+                      monthMean       76.918
+                (max) dailyMean       99.542
+                (mean)dailyMean       76.918
+              (median)dailyMean       75.000
+               (max)daily8hMean      150.875 * 
+              (mean)daily8hMean       76.294
+            (median)daily8hMean       74.625
+ 
+--------------------------
+NO2-MendezAlvaro
+NO2
+yy 16 mm  9
+                AboveLimit(NO2)            0
+                      monthMean       41.806
+                (max) dailyMean       68.458
+                (mean)dailyMean       41.806
+              (median)dailyMean       44.958
+               (max)daily8hMean      122.375
+              (mean)daily8hMean       41.068
+            (median)daily8hMean       38.573
+ 
+--------------------------
+NO2-PzCastilla
+NO2
+yy 16 mm  9
+                AboveLimit(NO2)            0
+                      monthMean       47.487
+                (max) dailyMean       74.917
+                (mean)dailyMean       47.488
+              (median)dailyMean       47.938
+               (max)daily8hMean      105.625
+              (mean)daily8hMean       46.771
+            (median)daily8hMean       45.508
+ 
+--------------------------
+NO2-FedzLadreda
+NO2
+yy 16 mm  9
+                AboveLimit(NO2)           10
+                      monthMean       65.236
+                (max) dailyMean      104.500
+                (mean)dailyMean       65.236
+              (median)dailyMean       68.917
+               (max)daily8hMean      172.625
+              (mean)daily8hMean       64.095
+            (median)daily8hMean       65.047
+ 
+--------------------------
+NO2-JuanCarlosI
+NO2
+yy 16 mm  9
+                AboveLimit(NO2)            0
+                      monthMean       26.018
+                (max) dailyMean       53.542
+                (mean)dailyMean       26.018
+              (median)dailyMean       26.125
+               (max)daily8hMean       90.250
+              (mean)daily8hMean       25.588
+            (median)daily8hMean       24.398
+ 
+--------------------------
+PM25-MendezAlvaro
+PM25
+yy 16 mm  9
+                      monthMean       12.685
+                (max) dailyMean       25.583
+                (mean)dailyMean       12.685
+              (median)dailyMean       12.750
+               (max)daily8hMean       39.625
+              (mean)daily8hMean       12.538
+            (median)daily8hMean       12.313
+ 
+--------------------------
+PM25-PzCastilla
+PM25
+yy 16 mm  9
+                      monthMean        9.953
+                (max) dailyMean       22.042
+                (mean)dailyMean        9.953
+              (median)dailyMean       10.396
+               (max)daily8hMean       30.250
+              (mean)daily8hMean        9.820
+            (median)daily8hMean       10.250
+ 
+--------------------------
+O3-FezLadreda
+O3
+yy 16 mm  9
+                      monthMean       43.837
+                (max) dailyMean       64.792
+                (mean)dailyMean       43.837
+              (median)dailyMean       40.271
+               (max)daily8hMean      112.125
+              (mean)daily8hMean       43.447
+            (median)daily8hMean       42.557
+ 
+--------------------------
+O3-JuanCarlosI
+O3
+yy 16 mm  9
+                      monthMean       61.139
+                (max) dailyMean       88.250
+                (mean)dailyMean       61.139
+              (median)dailyMean       59.354
+               (max)daily8hMean      135.625
+              (mean)daily8hMean       60.609
+            (median)daily8hMean       57.159
+ 
+--------------------------
+NO2-MendezAlvaro
+NO2
+yy 16 mm 10
+                AboveLimit(NO2)            3
+                      monthMean       53.938
+                (max) dailyMean       82.708
+                (mean)dailyMean       53.938
+              (median)dailyMean       52.208
+               (max)daily8hMean      133.750
+              (mean)daily8hMean       52.634
+            (median)daily8hMean       53.458
+ 
+--------------------------
+NO2-PzCastilla
+NO2
+yy 16 mm 10
+                AboveLimit(NO2)            3
+                      monthMean       50.601
+                (max) dailyMean       75.833
+                (mean)dailyMean       50.601
+              (median)dailyMean       49.750
+               (max)daily8hMean      137.625
+              (mean)daily8hMean       49.285
+            (median)daily8hMean       50.406
+ 
+--------------------------
+NO2-FedzLadreda
+NO2
+yy 16 mm 10
+                AboveLimit(NO2)            8
+                      monthMean       65.659
+                (max) dailyMean       96.000
+                (mean)dailyMean       65.659
+              (median)dailyMean       62.583
+               (max)daily8hMean      152.000
+              (mean)daily8hMean       64.276
+            (median)daily8hMean       63.339
+ 
+--------------------------
+NO2-JuanCarlosI
+NO2
+yy 16 mm 10
+                AboveLimit(NO2)            0
+                      monthMean       29.759
+                (max) dailyMean       48.375
+                (mean)dailyMean       29.759
+              (median)dailyMean       28.750
+               (max)daily8hMean       79.250
+              (mean)daily8hMean       28.978
+            (median)daily8hMean       27.042
+ 
+--------------------------
+PM25-MendezAlvaro
+PM25
+yy 16 mm 10
+                      monthMean       14.526
+                (max) dailyMean       26.417
+                (mean)dailyMean       14.526
+              (median)dailyMean       15.000
+               (max)daily8hMean       44.500
+              (mean)daily8hMean       14.278
+            (median)daily8hMean       14.240
+ 
+--------------------------
+PM25-PzCastilla
+PM25
+yy 16 mm 10
+                      monthMean       10.874
+                (max) dailyMean       15.042
+                (mean)dailyMean       10.874
+              (median)dailyMean       10.792
+               (max)daily8hMean       23.500
+              (mean)daily8hMean       10.634
+            (median)daily8hMean       10.172
+ 
+--------------------------
+O3-FezLadreda
+O3
+yy 16 mm 10
+                      monthMean       28.302
+                (max) dailyMean       44.083
+                (mean)dailyMean       28.302
+              (median)dailyMean       28.667
+               (max)daily8hMean       90.750
+              (mean)daily8hMean       28.229
+            (median)daily8hMean       28.969
+ 
+--------------------------
+O3-JuanCarlosI
+O3
+yy 16 mm 10
+                      monthMean       41.191
+                (max) dailyMean       67.875
+                (mean)dailyMean       41.191
+              (median)dailyMean       43.792
+               (max)daily8hMean      108.250
+              (mean)daily8hMean       41.104
+            (median)daily8hMean       43.740
+ 
+--------------------------
+NO2-MendezAlvaro
+NO2
+yy 16 mm 11
+                AboveLimit(NO2)            0
+                      monthMean       52.739
+                (max) dailyMean       85.542
+                (mean)dailyMean       52.739
+              (median)dailyMean       52.896
+               (max)daily8hMean      120.000
+              (mean)daily8hMean       52.123
+            (median)daily8hMean       51.643
+ 
+--------------------------
+NO2-PzCastilla
+NO2
+yy 16 mm 11
+                AboveLimit(NO2)            0
+                      monthMean       51.315
+                (max) dailyMean       81.458
+                (mean)dailyMean       51.315
+              (median)dailyMean       49.688
+               (max)daily8hMean      102.125
+              (mean)daily8hMean       50.638
+            (median)daily8hMean       48.794
+ 
+--------------------------
+NO2-FedzLadreda
+NO2
+yy 16 mm 11
+                AboveLimit(NO2)            8
+                      monthMean       67.600
+                (max) dailyMean      121.500
+                (mean)dailyMean       67.600
+              (median)dailyMean       67.896
+               (max)daily8hMean      206.625
+              (mean)daily8hMean       66.876
+            (median)daily8hMean       67.276
+ 
+--------------------------
+NO2-JuanCarlosI
+NO2
+yy 16 mm 11
+                AboveLimit(NO2)            0
+                      monthMean       24.003
+                (max) dailyMean       40.292
+                (mean)dailyMean       24.003
+              (median)dailyMean       21.729
+               (max)daily8hMean       57.875
+              (mean)daily8hMean       23.692
+            (median)daily8hMean       22.518
+ 
+--------------------------
+PM25-MendezAlvaro
+PM25
+yy 16 mm 11
+                      monthMean       11.596
+                (max) dailyMean       26.250
+                (mean)dailyMean       11.596
+              (median)dailyMean        9.542
+               (max)daily8hMean       35.250
+              (mean)daily8hMean       11.471
+            (median)daily8hMean        8.956
+ 
+--------------------------
+PM25-PzCastilla
+PM25
+yy 16 mm 11
+                      monthMean       10.824
+                (max) dailyMean       27.583
+                (mean)dailyMean       10.824
+              (median)dailyMean        8.063
+               (max)daily8hMean       33.875
+              (mean)daily8hMean       10.690
+            (median)daily8hMean        7.839
+ 
+--------------------------
+O3-FezLadreda
+O3
+yy 16 mm 11
+                      monthMean       22.651
+                (max) dailyMean       50.792
+                (mean)dailyMean       22.651
+              (median)dailyMean       19.438
+               (max)daily8hMean       69.375
+              (mean)daily8hMean       22.420
+            (median)daily8hMean       20.286
+ 
+--------------------------
+O3-JuanCarlosI
+O3
+yy 16 mm 11
+                      monthMean       32.406
+                (max) dailyMean       57.500
+                (mean)dailyMean       32.406
+              (median)dailyMean       33.500
+               (max)daily8hMean       73.875
+              (mean)daily8hMean       32.014
+            (median)daily8hMean       32.388
+ 
+--------------------------
+NO2-MendezAlvaro
+NO2
+yy 16 mm 12
+                AboveLimit(NO2)            1
+                      monthMean       61.387
+                (max) dailyMean       95.333
+                (mean)dailyMean       61.387
+              (median)dailyMean       55.708
+               (max)daily8hMean      140.250
+              (mean)daily8hMean       60.785
+            (median)daily8hMean       58.448
+ 
+--------------------------
+NO2-PzCastilla
+NO2
+yy 16 mm 12
+                AboveLimit(NO2)            1
+                      monthMean       56.167
+                (max) dailyMean       87.208
+                (mean)dailyMean       56.167
+              (median)dailyMean       55.417
+               (max)daily8hMean      152.500
+              (mean)daily8hMean       55.680
+            (median)daily8hMean       54.630
+ 
+--------------------------
+NO2-FedzLadreda
+NO2
+yy 16 mm 12
+                AboveLimit(NO2)           20
+                      monthMean       78.007
+                (max) dailyMean      142.333
+                (mean)dailyMean       78.007
+              (median)dailyMean       72.792
+               (max)daily8hMean      209.375
+              (mean)daily8hMean       77.522
+            (median)daily8hMean       76.870
+ 
+--------------------------
+NO2-JuanCarlosI
+NO2
+yy 16 mm 12
+                AboveLimit(NO2)            0
+                      monthMean       25.860
+                (max) dailyMean       57.500
+                (mean)dailyMean       25.860
+              (median)dailyMean       22.583
+               (max)daily8hMean       68.125
+              (mean)daily8hMean       25.589
+            (median)daily8hMean       20.313
+ 
+--------------------------
+PM25-MendezAlvaro
+PM25
+yy 16 mm 12
+                      monthMean       17.390
+                (max) dailyMean       28.000
+                (mean)dailyMean       17.390
+              (median)dailyMean       19.250
+               (max)daily8hMean       40.375
+              (mean)daily8hMean       17.147
+            (median)daily8hMean       18.443
+ 
+--------------------------
+PM25-PzCastilla
+PM25
+yy 16 mm 12
+                      monthMean       13.474
+                (max) dailyMean       28.417
+                (mean)dailyMean       13.474
+              (median)dailyMean       11.542
+               (max)daily8hMean       49.000
+              (mean)daily8hMean       13.328
+            (median)daily8hMean       13.031
+ 
+--------------------------
+O3-FezLadreda
+O3
+yy 16 mm 12
+                      monthMean       16.669
+                (max) dailyMean       47.958
+                (mean)dailyMean       16.669
+              (median)dailyMean       13.667
+               (max)daily8hMean       66.000
+              (mean)daily8hMean       16.347
+            (median)daily8hMean       13.714
+ 
+--------------------------
+O3-JuanCarlosI
+O3
+yy 16 mm 12
+                      monthMean       29.031
+                (max) dailyMean       65.167
+                (mean)dailyMean       29.031
+              (median)dailyMean       25.667
+               (max)daily8hMean       69.625
+              (mean)daily8hMean       28.662
+            (median)daily8hMean       24.964
+ 

@@ -1,0 +1,53 @@
+allEnsembleResults ( paramSet , indexEnsembleCombination )
+paramSet : 1 - 4
+indexEnsembleCombination 
+
+ensembleResults <- allEnsembleResults ( paramSet , indexEnsembleCombination )
+
+ensembleResults = 
+
+  struct with fields:
+
+                       parameters: [1×1 struct]
+     ensembleElementsAllTsOneIter: {12×1 cell}
+       Elements_valTarget4RawData: {1×4 cell}
+      Elements_testTarget4RawData: {1×4 cell}
+     Elements_valForecast4RawData: {4×3 cell}
+    Elements_testForecast4RawData: {4×3 cell}
+                 Elements_rmseVal: [4×3 double]
+                Elements_rmseTest: [4×3 double]
+                Elements_smapeVal: [4×3 double]
+               Elements_smapeTest: [4×3 double]
+                      weightsRmse: [4×3 double]
+                     weightsSmape: [4×3 double]
+         ensembleWRmseValForecast: {1×4 cell}
+        ensembleWRmseTestForecast: {1×4 cell}
+             rmseValEnsembleWRmse: [4.1655 2.3934 2.7205 1.1520]
+            smapeValEnsembleWRmse: [47.9728 52.1555 27.4535 85.5180]
+            rmseTestEnsembleWRmse: [4.3070 3.9869 2.4343 1.1708]
+           smapeTestEnsembleWRmse: [40.3754 50.4872 23.4562 51.7524]
+        ensembleWSmapeValForecast: {1×4 cell}
+       ensembleWSmapeTestForecast: {1×4 cell}
+            rmseValEnsembleWSmape: [4.4569 2.3932 2.6987 1.1525]
+           smapeValEnsembleWSmape: [50.3427 52.1513 27.1651 85.5291]
+           rmseTestEnsembleWSmape: [4.1325 3.9872 2.4248 1.1825]
+          smapeTestEnsembleWSmape: [38.6722 50.4876 23.3657 51.7497]
+
+
+ensembleResults.parameters
+
+ans = 
+
+  struct with fields:
+
+                     iTerDoE: 1
+                    incRound: 0
+                  bestByRMSE: 1
+                 bestBySMAPE: 0
+         ensembleCombination: 23
+                    testPrct: 0.1500
+                     valPrct: 0.1500
+                   trainPrct: 0.7000
+    ResultsEnsemblesFilename: 'resultsEnsembles.txt'
+                   debugging: 0
+          doeResultsFilename: 'expResultsAll_01.mat'          
